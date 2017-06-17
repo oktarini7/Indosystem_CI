@@ -1,0 +1,10 @@
+html{
+  position:relative; 
+  min-height: 100%;
+}
+body { 
+	margin: 0;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	padding-bottom: 100px;
+}
