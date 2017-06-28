@@ -4,7 +4,16 @@ html{
 }
 body { 
 	margin: 0;
+	padding: 20px;
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 14px;
-	padding-bottom: 100px;
+}
+.wishes{
+	padding: 5px;
+	margin: 5px;
+	border-style: solid;
+	display: inline-block;
+	width: 250px;
+	height: 100px;
+	overflow-y: hidden;
 }

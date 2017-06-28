@@ -50,7 +50,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |		my-controller/my-method	-> my_controller/my_method
 */
 $route['default_controller'] = 'indosystem';
-
+$route['indosystemfin'] = 'indosystemMain';
+$route['indosystem1'] = 'indosystem1';
+$route['indosystem2'] = 'indosystem2';
+$route['indosystem3'] = 'indosystem3';
+$route['indosystem3/facebook_login']= 'indosystem3/facebook_login';
+$route['indosystem3/facebook_logout']= 'indosystem3/facebook_logout';
+$route['indosystem1/processc1'] = 'indosystem1/processc1';
+$route['indosystem3/allwishes'] = 'allwishes';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 ?>
