@@ -1,0 +1,8 @@
+1. Test Plan untuk challenge 1
+   	Input 5 akan menghasilkan solusi seperti yang diminta dalam tes
+
+
+2. Test plan untuk challenge 3
+   	a. Input ada yang kosong akan memberikan warning "Fill out all input"
+	b. Input name: selain huruf a-z akan memberikan warning "Name must contain only letters and spaces"
+	c. Input phone: selain digit 1-9 akan memberikan warning "Phone must contain only numbers"
